@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-8d2f3c74e943ee3f10f4.js",
+      "component---src-pages-index-js-8d2f3c74e943ee3f10f4.js.map"
+    ],
+    "path---": [
+      "path----7d450ad9edaf637002cf.js",
+      "path----7d450ad9edaf637002cf.js.map"
+    ],
+    "path---develop-react-native-project-using-typescript": [
+      "path---develop-react-native-project-using-typescript-33fbc1ebf7dcd960c8ba.js",
+      "path---develop-react-native-project-using-typescript-33fbc1ebf7dcd960c8ba.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-e48437ee098c0002dce1.js",
+      "component---src-templates-blog-post-js-e48437ee098c0002dce1.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-0e816af0b287aeafa44c.js",
+      "component---src-layouts-index-js-0e816af0b287aeafa44c.js.map"
+    ],
+    "path---index": [
+      "path---index-360a5cb246d41eaf4f34.js",
+      "path---index-360a5cb246d41eaf4f34.js.map"
+    ],
+    "component---src-pages-my-files-js": [
+      "component---src-pages-my-files-js-4afd19c9920c66827d04.js",
+      "component---src-pages-my-files-js-4afd19c9920c66827d04.js.map"
+    ],
+    "path---my-files": [
+      "path---my-files-29bc84d75e2a133fb5e3.js",
+      "path---my-files-29bc84d75e2a133fb5e3.js.map"
+    ],
+    "commons": [
+      "commons-c759395d8a4899faf200.js",
+      "commons-c759395d8a4899faf200.js.map"
+    ],
+    "path---pandas-and-bananas": [
+      "path---pandas-and-bananas-b3ce60024787ff23dce2.js",
+      "path---pandas-and-bananas-b3ce60024787ff23dce2.js.map"
+    ],
+    "app": [
+      "app-1f3130b62a5893985522.js",
+      "app-1f3130b62a5893985522.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-0dc92b04e4c07c951f78.js",
+      "component---src-pages-about-js-0dc92b04e4c07c951f78.js.map"
+    ],
+    "path---about": [
+      "path---about-11f5c08cbd98da490c9e.js",
+      "path---about-11f5c08cbd98da490c9e.js.map"
+    ]
+  }
+}
