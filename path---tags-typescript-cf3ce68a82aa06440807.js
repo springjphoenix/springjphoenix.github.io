@@ -1,2 +1,0 @@
-webpackJsonp([51720743109199],{701:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/typescript-import-json/"},frontmatter:{title:"Typescript如何import json文件"}}}]}},pathContext:{tag:"Typescript"}}}});
-//# sourceMappingURL=path---tags-typescript-cf3ce68a82aa06440807.js.map

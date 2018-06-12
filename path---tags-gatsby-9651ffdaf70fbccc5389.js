@@ -1,2 +1,0 @@
-webpackJsonp([0x7ab76f7a7e61],{660:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-change-to-gatsby/"},frontmatter:{title:"用Gatsby重写blog"}}}]}},pathContext:{tag:"Gatsby"}}}});
-//# sourceMappingURL=path---tags-gatsby-9651ffdaf70fbccc5389.js.map

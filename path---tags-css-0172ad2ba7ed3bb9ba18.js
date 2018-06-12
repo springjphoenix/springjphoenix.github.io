@@ -1,2 +1,0 @@
-webpackJsonp([0xbe2449c8444b],{651:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{fields:{slug:"/cssinjs/"},frontmatter:{title:"CSS In JS"}}},{node:{fields:{slug:"/css-layout/"},frontmatter:{title:"CSS常用布局"}}},{node:{fields:{slug:"/bezier-curve/"},frontmatter:{title:"bezier-curve"}}}]}},pathContext:{tag:"css"}}}});
-//# sourceMappingURL=path---tags-css-0172ad2ba7ed3bb9ba18.js.map

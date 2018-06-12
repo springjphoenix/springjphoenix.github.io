@@ -1,2 +1,0 @@
-webpackJsonp([0xed28d567e2ba],{662:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/auto-deploy-githubPages-by-webhook-md/"},frontmatter:{title:"利用webhook实现github pages的自动部署"}}},{node:{fields:{slug:"/my-first-hexo-blog/"},frontmatter:{title:"我的第一个hexo Blog"}}}]}},pathContext:{tag:"github"}}}});
-//# sourceMappingURL=path---tags-github-74246637372b926fbe72.js.map
