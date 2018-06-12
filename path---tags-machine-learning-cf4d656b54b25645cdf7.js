@@ -1,0 +1,2 @@
+webpackJsonp([0xe140ce5a49d5],{688:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/word2vec-first-try-md/"},frontmatter:{title:"用word2vec分析中文维基语料库"}}},{node:{fields:{slug:"/ml-content/"},frontmatter:{title:"机器学习计划"}}}]}},pathContext:{tag:"machine learning"}}}});
+//# sourceMappingURL=path---tags-machine-learning-cf4d656b54b25645cdf7.js.map

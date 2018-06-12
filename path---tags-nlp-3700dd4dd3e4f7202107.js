@@ -1,0 +1,2 @@
+webpackJsonp([49809841224506],{692:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/word2vec-first-try-md/"},frontmatter:{title:"用word2vec分析中文维基语料库"}}}]}},pathContext:{tag:"nlp"}}}});
+//# sourceMappingURL=path---tags-nlp-3700dd4dd3e4f7202107.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xf73bf4b45fb],{718:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/pseudo-proposition/"},frontmatter:{title:"为什么说“XXX是个伪命题”是个伪命题？"}}}]}},pathContext:{tag:"伪命题"}}}});
+//# sourceMappingURL=path---tags-伪命题-ba8a8e780957dc8e5651.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xab94d75a7906],{689:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/markdown-math/"},frontmatter:{title:"在markdown里如何写数学公式"}}}]}},pathContext:{tag:"math"}}}});
+//# sourceMappingURL=path---tags-math-aeecf8de8904bf1289af.js.map
