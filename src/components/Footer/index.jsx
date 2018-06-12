@@ -18,7 +18,7 @@ const Right = styled.div`
 `
 export default () => {
   return <Footer>
-    <Left>© 2017 magicly</Left>
+    <Left>© 2018 Spring J Phoenix</Left>
     <Right>Powerd by <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> Cloned from <a href="https://github.com/magicly/gatsby-blog" target="_blank">Magicly</a></Right>
   </Footer>
 }
