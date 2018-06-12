@@ -1,0 +1,2 @@
+webpackJsonp([0xcf21e0290c8],{639:function(s,e){s.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/fe-hpc/rust-asmjs-and-webassembly"},frontmatter:{title:"前端高性能计算之三：Rust -> asm.js & webassembly"}}},{node:{fields:{slug:"/fe-hpc/asmjs-and-webassembly"},frontmatter:{title:"前端高性能计算之二：asm.js & webassembly"}}}]}},pathContext:{tag:"asm.js"}}}});
+//# sourceMappingURL=path---tags-asm-js-12f57022e8116dfab3fc.js.map

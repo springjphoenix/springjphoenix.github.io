@@ -1,0 +1,2 @@
+webpackJsonp([0xa36a794a7633],{699:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/chrome-extentions/"},frontmatter:{title:"推荐一些Chrome插件"}}}]}},pathContext:{tag:"tools"}}}});
+//# sourceMappingURL=path---tags-tools-d90526c708acf0f4f64a.js.map

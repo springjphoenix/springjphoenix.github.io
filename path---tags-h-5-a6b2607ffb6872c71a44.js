@@ -1,0 +1,2 @@
+webpackJsonp([0x904c8ff234d1],{667:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/h5-orientation-on-ios/"},frontmatter:{title:"手机上如何让页面强制横屏"}}}]}},pathContext:{tag:"h5"}}}});
+//# sourceMappingURL=path---tags-h-5-a6b2607ffb6872c71a44.js.map
