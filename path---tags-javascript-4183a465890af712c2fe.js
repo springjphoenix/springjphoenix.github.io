@@ -1,0 +1,2 @@
+webpackJsonp([67335324583948],{675:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/js-arrow-functions-md/"},frontmatter:{title:"javascript箭头函数"}}}]}},pathContext:{tag:"javascript"}}}});
+//# sourceMappingURL=path---tags-javascript-4183a465890af712c2fe.js.map

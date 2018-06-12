@@ -1,0 +1,2 @@
+webpackJsonp([0x5c1930809404],{710:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/udacity-ud730-notes/"},frontmatter:{title:"udacity课程ud730深度学习学习笔记"}}},{node:{fields:{slug:"/word2vec-first-try-md/"},frontmatter:{title:"用word2vec分析中文维基语料库"}}}]}},pathContext:{tag:"word2vec"}}}});
+//# sourceMappingURL=path---tags-word-2-vec-a101d64f661dd73d6e26.js.map

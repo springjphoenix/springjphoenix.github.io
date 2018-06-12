@@ -1,0 +1,2 @@
+webpackJsonp([85240199557489],{656:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/electron-starter/"},frontmatter:{title:"Electron入门资料"}}}]}},pathContext:{tag:"electron"}}}});
+//# sourceMappingURL=path---tags-electron-d762749f1b06c96c30cb.js.map
