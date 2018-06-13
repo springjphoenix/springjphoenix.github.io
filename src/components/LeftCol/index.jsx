@@ -125,7 +125,7 @@ export default ({ showMiddle }) => {
       <Author>
         <Link to="/">Spring J Phoenix</Link>
       </Author>
-      <Tags>Programmer( Java, C, JavaScript,  Vim user, Twitter-adictor</Tags>
+      <Tags>Programmer( Java, C, JavaScript ),  Vim user, Twitter-adictor</Tags>
     </SelfIntro>
     <Menu>
       <ul>
