@@ -6,7 +6,11 @@
 
    ![](https://cdn.dribbble.com/users/135757/screenshots/1021755/flat_terminal.png)
 
-2. vim的主题设置（同时支持Jetbrains全家桶、Xcode等）
+2. Ubuntu下扁平化终端主题（选择Flat）：
+
+   http://mayccoll.github.io/Gogh/
+
+3. vim的主题设置（同时支持Jetbrains全家桶、Xcode等）
 
    https://github.com/raphamorim/lucario
 
@@ -15,7 +19,7 @@
    `set background=dark`
    `colorscheme lucario`
 
-3. vim显示空格
+4. vim显示空格
 
    如果你对代码缩进也像我这样比较执着的话，可以这样让vim显示出空白字符：
 
